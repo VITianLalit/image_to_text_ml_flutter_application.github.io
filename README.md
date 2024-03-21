@@ -14,3 +14,6 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+
+![ImageToText](https://github.com/VITianLalit/image_to_text_ml_flutter_application.github.io/assets/98540540/808052ed-e238-42ce-ace7-2adb9380bab7)
